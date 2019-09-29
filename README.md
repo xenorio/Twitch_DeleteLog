@@ -28,5 +28,8 @@ For every channel, a directory is created inside the logs directory (Which is cr
 Example of a log entry: ``[23:07:51] sometwitchuser > Hello There``
 
 ***
+### Donating
+If you like the script and want to give me a buck or two for my work, feel free to do so at https://paypal.me/Xenorio
+***
 ### Contributing
 Feel free to make as many pull requests and forks as you want!
