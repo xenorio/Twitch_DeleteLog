@@ -1,0 +1,15 @@
+{
+    "options": {
+        "options": {
+            "debug": false
+        },
+        "connection": {
+            "cluster": "aws",
+            "reconnect": true
+        },
+        "identity": {
+            "username": "<your bot's username>",
+            "password": "<your bot's oauth token>"
+        }
+    }
+}
