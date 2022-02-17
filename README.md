@@ -1,3 +1,9 @@
+| :exclamation:  Archived   |
+|-----------------------------------------|
+
+This project is no longer being worked on. I don't even know if it's still functional. Also, dependabot is screaming about a bunch of prototype pollution exploits so use at your own risk or whatever.
+
+
 ## Twitch DeleteLog
 #### Log deleted Twitch messages
 ***
